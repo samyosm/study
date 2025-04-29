@@ -1,0 +1,8 @@
+[package]
+name = "leetcode-rust"
+version = "0.1.0"
+edition = "2021"
+description = "An attempt to self optimize by completing a lot of leetcode problems."
+readme = "../README.md"
+
+[dependencies]
